@@ -11,4 +11,4 @@ One index.htm file was created as well as a subdirectory for CSS files that are 
 
 
 ## How were the videos made?
-With the help of stock videos from https://www.pexels.com and screenrecordings from an Android device. These were compiled in Kdenlive and further compressed with FFMPEG with libx264 encoding to meet GitHub user upload requirements (under 10MB videos).
+With the help of stock videos from https://www.pexels.com and screenrecordings from an Android device. These were rendered in Kdenlive and further compressed with FFMPEG with libx265 encoding to meet GitHub user upload requirements (under 10MB videos).
